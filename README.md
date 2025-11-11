@@ -5,13 +5,15 @@ I don't know what I am doing but documenting this will be fun - and insightful t
 
 ## Current journey:
 
-27 Oct 2025 - it all started with research on data analytics function for my job
+27 Aug 2025 - it all started with research on data analytics function for my full time job
 
-2 Nov 2025 - started on Fundamentals of Data Engineering book to learn more; got interested in the job of data teams
+1 Sep 2025 - grew curious about the cloud as well - especially AWS 
+
+2 Nov 2025 - started on Fundamentals of Data Engineering book to learn more; got hooked into roles in data
 
 4 Nov 2025 - free access week on Datacamp; took Associate Data Engineer in SQL; to learn SQL basics
 
-9 Nov 2025 - more interest in career in data; research on LinkedIn to build roadmap; focused on data analyst as entry point
+9 Nov 2025 - build a quick roadmap to streamline learning journey in data
 
 10 Nov 2025 - signed up Coursera to enrol in Google Data Analytics Professional Certification
 
