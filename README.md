@@ -23,7 +23,7 @@ I don't know what I am doing but documenting this will be fun - and insightful t
 
 11 Nov 2025 - slight change to roadmap to start with data visualisation as starting point
 
-11 Nov 2025 - started on a Tableau course on Youtube by Data with Baraa; Tableau downloaded
+11 Nov 2025 - started on a Tableau course on Youtube by Data with Baraa;
 
 ## Resources used:
 
