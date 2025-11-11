@@ -1,5 +1,7 @@
 # Journey into Data Analytics
-learning data analytics (started as research for my full time job, but interest & curiosity grew)
+Learning data analytics. Started as research for my full time job, but interest got me.
+
+I don't know what I am doing but documenting this will be fun - and insightful to look back into.
 
 ## Current journey:
 
@@ -27,3 +29,9 @@ learning data analytics (started as research for my full time job, but interest 
 
 ### Tutorials:
 1. Youtube - Tableau Ultimate Full Course for Beginners - Data with Baraa
+
+## Roadmap (updated 11 Nov 2025)
+1. Tableau
+2. Excel
+3. SQL
+4. Python
