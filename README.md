@@ -13,6 +13,8 @@ I don't know what I am doing but documenting this will be fun - and insightful t
 
 4 Nov 2025 - free access week on Datacamp; took Associate Data Engineer in SQL; to learn SQL basics
 
+4 Nov 2025 - created an account on Github - i think will be important
+
 9 Nov 2025 - build a quick roadmap to streamline learning journey in data
 
 10 Nov 2025 - signed up Coursera to enrol in Google Data Analytics Professional Certification
